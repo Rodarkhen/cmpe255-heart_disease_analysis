@@ -1,6 +1,6 @@
 # cmpe255-heart_disease_analysis
 
-# UCI Heart Disease — Exploratory Data Analysis (CMPE 255)
+# UCI Heart Disease (CMPE 255)
 
 **Goal:** Perform knowledge discovery and visualization on the UCI Heart Disease dataset to identify risk factors and patterns associated with heart disease.  
 
@@ -8,8 +8,9 @@
 
 ## Dataset
 
-- **Source:** UCI Machine Learning Repository — Heart Disease Data Set  
-  https://archive.ics.uci.edu/ml/datasets/Heart+Disease  
+- **Source:** [UCI Machine Learning Repository — Heart Disease Data Set](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
+- **Size:** 920 rows × 16 columns
+- **Target variable:** `num` (0 = no heart disease, 1–4 = presence with varying severity)
 
 ## Project Folder Structure
 ```
